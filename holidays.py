@@ -38,5 +38,3 @@ print(x)
 
 
 
-
-import django.
